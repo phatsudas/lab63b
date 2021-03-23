@@ -23,19 +23,19 @@
 
 ![image](https://user-images.githubusercontent.com/80880229/112186010-50197b00-8c33-11eb-9379-9357a75876c7.png)
 
-
-2. รันคำสั่ง cd 02_Scan-wifi เพื่อใช้โปรแกรม 02_Scan-wifi
-3. รันคำสั่ง vi src/main.cpp เพื่อดูตัวอย่างโปรแกรม
+2. รันคำสั่ง cd pattani เพื่อเข้าไปที่โฟลเดอร์ pattani
+3. รันคำสั่ง cd 02_Scan-wifi เพื่อใช้โปรแกรม 02_Scan-wifi
+4. รันคำสั่ง vi src/main.cpp เพื่อดูตัวอย่างโปรแกรม
 
 ![image](https://user-images.githubusercontent.com/80880229/112186303-91aa2600-8c33-11eb-9f0b-7b25a6529258.png)
 ![image](https://user-images.githubusercontent.com/80880229/112186441-b8685c80-8c33-11eb-8d35-16f12e7d83b7.png)
 
-4. รันคำสั่ง pio run -t upload เพื่อ upload โปรแกรมไปยังไมโครคอนโทรเลอร์
-5. กดป่มสีดำ และปุ่ม set เพื่อให้ไมโครคอนโทรเลอร์รับโปรแกรมใหม่เข้าไป
+5. รันคำสั่ง pio run -t upload เพื่อ upload โปรแกรมไปยังไมโครคอนโทรเลอร์
+6. กดป่มสีดำ และปุ่ม set เพื่อให้ไมโครคอนโทรเลอร์รับโปรแกรมใหม่เข้าไป
 
 ![image](https://user-images.githubusercontent.com/80880229/112187226-7e4b8a80-8c34-11eb-9caa-64f1d7d645ae.png)
 
-6. รันคำสั่ง pio device monitor เพื่อดผลลัพธ์
+7. รันคำสั่ง pio device monitor เพื่อดผลลัพธ์
 
 ## ผลการทดลอง
 * เมื่อทำการรันคำส่ง pio device monitor
