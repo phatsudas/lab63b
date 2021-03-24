@@ -28,14 +28,14 @@
   
 ## วิธีการทดลอง
 ตอนที่ 1 
-1. ติดตั้งอุปกรณ์ตามรูปภาพ
+1. ติดตั้งอุปกรณ์ตามรูปภาพ (ต่อ LED ที่ port 0,2 ของ Adapter)
 
 ![image](https://user-images.githubusercontent.com/80880229/112192966-05e7c800-8c3a-11eb-8d21-8e4d1ae62dea.png)
 ![image](https://user-images.githubusercontent.com/80880229/112193098-2152d300-8c3a-11eb-8149-34c4bda6f0da.png)
 
 2. รันคำสั่ง cd pattani เพื่อเข้าไปที่โฟลเดอร์ pattani
 3. รันคำสั่ง cd 03_Output-Port เพื่อใช้โปรแกรม 03_Output-Port
-4. รันคำสั่ง vi src/main.cpp เพื่อดูตัวอย่างโปรแกรม
+4. รันคำสั่ง vi src/main.cpp เพื่อดูตัวอย่างโปรแกรม ( set ให้ port 0 เป็น output และให้วน loop ทุกๆ 500 ms)
 
 ![image](https://user-images.githubusercontent.com/80880229/112194001-059bfc80-8c3b-11eb-9f42-795e01760678.png)
 
@@ -44,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/80880229/112194233-3c721280-8c3b-11eb-83cf-6961b8c857bf.png)
 
-7. รันคำสั่ง pio device monitor เพื่อดผลลัพธ์
+7. รันคำสั่ง pio device monitor เพื่อดูผลลัพธ์
 
 ตอนที่ 2
 
