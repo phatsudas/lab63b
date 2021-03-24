@@ -19,10 +19,10 @@
   * https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C
 * หลอดไฟ LED คือ
   * https://ra-light.com/th/%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9F-led-%E0%B8%84%E0%B8%B7%E0%B8%AD/
-* ข้อมูลไมโครคอนโทรเลอร์
-  * https://platformio.org/
 * Output คือ
   * https://skjproject.wordpress.com/%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%95input-%E0%B9%80%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B9%8C%E0%B8%9E%E0%B8%B8/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B8/
+* ข้อมูลไมโครคอนโทรเลอร์
+  * https://platformio.org/
 * ข้อมูล source code
   * https://github.com/choompol-boonmee/iotset1/blob/main/examples/ex03/src/main.cpp
   
