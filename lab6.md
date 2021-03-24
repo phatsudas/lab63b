@@ -4,7 +4,7 @@
 1. เพื่อศึกษาวิธีการเขียนโปรแกรมลงบนไมโครคอนโทรเลอร์ 
 2. เพื่อเข้าใจหลักการทำงานของไมโครคอนโทรเลอร์เมื่อทำการสร้าง wifi
 
-## อุกรณ์ที่ใช้ 
+## อุปกรณ์ที่ใช้ 
 1. ไมโครคอนโทรเลอร์ (ESP-01)
 2. USB
 3. USB Serial
@@ -25,7 +25,7 @@
 
 2. รันคำสั่ง cd pattani เพื่อเข้าไปที่โฟลเดอร์ pattani
 3. รันคำสั่ง cd 06_Wifi-AP-Web-Server เพื่อใช้โปรแกรม 06_Wifi-AP-Web-Server
-4. รันคำสั่ง vi src/main.cpp เพื่อดูตัวอย่างโปรแกรม
+4. รันคำสั่ง vi src/main.cpp เพื่อดูตัวอย่างโปรแกรม (กำหนดชื่อ wifi คือ TUENG-ESP-WIFI และรหัส คือ choompol)
 
 ![image](https://user-images.githubusercontent.com/80880229/112203970-b4ddd100-8c45-11eb-9acb-2aa9a776ce2d.png)
 ![image](https://user-images.githubusercontent.com/80880229/112204219-01c1a780-8c46-11eb-8222-dd8fdfccc92a.png)
@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/80880229/112204382-2ddd2880-8c46-11eb-9489-4d4bbce028e9.png)
 
-8. รันคำสั่ง pio device monitor เพื่อดผลลัพธ์
+8. รันคำสั่ง pio device monitor เพื่อดูผลลัพธ์
 
 ## ผลการทดลอง
 * เมื่อทำการรันคำส่ง pio device monitor
