@@ -20,6 +20,8 @@
   * https://thiti.dev/blog/6796/
 * input คือ
   * https://skjproject.wordpress.com/%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B8%E0%B8%95input-%E0%B9%80%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B9%8C%E0%B8%9E%E0%B8%B8/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B8/
+* ข้อมูลไมโครคอนโทรเลอร์
+  * https://platformio.org/
 * ข้อมูล source code
   * https://github.com/choompol-boonmee/iotset1/blob/main/examples/ex04/src/main.cpp
   
