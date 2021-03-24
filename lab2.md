@@ -35,7 +35,7 @@
 
 ![image](https://user-images.githubusercontent.com/80880229/112187226-7e4b8a80-8c34-11eb-9caa-64f1d7d645ae.png)
 
-7. รันคำสั่ง pio device monitor เพื่อดผลลัพธ์
+7. รันคำสั่ง pio device monitor เพื่อดูผลลัพธ์
 
 ## ผลการทดลอง
 * เมื่อทำการรันคำส่ง pio device monitor
