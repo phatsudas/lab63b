@@ -8,7 +8,7 @@ void setup()
 	Serial.begin(115200);
 	pinMode(0, INPUT);
 	pinMode(2, OUTPUT);
-  pinMode(3, OUTPUT);
+        pinMode(3, OUTPUT);
 	Serial.println("\n\n\n");
 }
 
@@ -18,10 +18,10 @@ void loop()
 	Serial.printf("======= read %d\n", val);
 	if(val==1) {
 		digitalWrite(2, LOW);
-    digitalWrite(3, HIGH);
+                digitalWrite(3, HIGH);
 	} else {
 		digitalWrite(2, HIGH);
-    digitalWrite(3, LOW);
+                digitalWrite(3, LOW);
 	}
 	delay(100);
 }
