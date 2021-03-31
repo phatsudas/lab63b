@@ -24,7 +24,7 @@
 * ข้อมูลไมโครคอนโทรเลอร์
   * https://platformio.org/
 * ข้อมูล source code
-  * https://github.com/choompol-boonmee/iotset1/blob/main/examples/ex04/src/main.cpp
+  * https://github.com/phatsudas/lab63b/blob/main/source%20code%20lab7.cpp
   
 ## วิธีการทดลอง 
 1. 
